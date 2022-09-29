@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "média de notas"
 
 // Data atual  : 29/09/2022
 Var
