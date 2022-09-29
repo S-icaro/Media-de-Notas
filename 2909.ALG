@@ -1,11 +1,8 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+
 // Data atual  : 29/09/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 nota1:real
 nota2:real
 nota3:real
@@ -13,7 +10,7 @@ nota4:real
 media:Real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
  escreva("digite a nota do primeiro bim")
 leia (nota1)
 escreva("digite a nota do segundo bim")
@@ -25,7 +22,7 @@ leia (nota4)
  escreval ((nota1+nota2+nota3+nota4)/4)
  Media <-((nota1+nota2+nota3+nota4)/4)
  escreva (media/4)
- escreval ("a media dos alunos é",(media))
+ escreval ("a media dos alunos Ã©",(media))
   se media =10 entao
     ESCREVA ("parabens,")
   se media >=6 entao
